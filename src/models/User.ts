@@ -1,0 +1,3 @@
+class User {
+  Name :string   
+}
