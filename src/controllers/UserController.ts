@@ -1,7 +1,7 @@
-import '@models/User'
+import '@models/User';
 
 class UserController {
-  test(){
+  test() {
 
   }
 }
